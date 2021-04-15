@@ -1,2 +1,2 @@
-# Open-Science
-Open Science research group's repository
+# Open Science
+Guide to open research
